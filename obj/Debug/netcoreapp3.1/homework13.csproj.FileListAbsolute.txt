@@ -1,0 +1,13 @@
+C:\Users\Murad\source\repos\homework13\bin\Debug\netcoreapp3.1\homework13.exe
+C:\Users\Murad\source\repos\homework13\bin\Debug\netcoreapp3.1\homework13.deps.json
+C:\Users\Murad\source\repos\homework13\bin\Debug\netcoreapp3.1\homework13.runtimeconfig.json
+C:\Users\Murad\source\repos\homework13\bin\Debug\netcoreapp3.1\homework13.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\homework13\bin\Debug\netcoreapp3.1\homework13.dll
+C:\Users\Murad\source\repos\homework13\bin\Debug\netcoreapp3.1\homework13.pdb
+C:\Users\Murad\source\repos\homework13\obj\Debug\netcoreapp3.1\homework13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\homework13\obj\Debug\netcoreapp3.1\homework13.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\homework13\obj\Debug\netcoreapp3.1\homework13.AssemblyInfo.cs
+C:\Users\Murad\source\repos\homework13\obj\Debug\netcoreapp3.1\homework13.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\homework13\obj\Debug\netcoreapp3.1\homework13.dll
+C:\Users\Murad\source\repos\homework13\obj\Debug\netcoreapp3.1\homework13.pdb
+C:\Users\Murad\source\repos\homework13\obj\Debug\netcoreapp3.1\homework13.genruntimeconfig.cache
